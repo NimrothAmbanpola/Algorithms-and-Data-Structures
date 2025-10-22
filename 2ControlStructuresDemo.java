@@ -28,7 +28,7 @@
  * ==========================================================================
  */
 
-public class ControlStructuresDemo {
+public class 2ControlStructuresDemo {
 
     public static void main(String[] args) {
 
@@ -208,3 +208,4 @@ public class ControlStructuresDemo {
         // Mix while (repetition) + if (decision).
     }
 }
+
